@@ -1,49 +1,60 @@
-<div dir="rtl">
+# 🎉 انتشار نسخهٔ v0.92  
+23 خرداد 1405
 
-🎉 **انتشار نسخهٔ v0.91**
+این نسخهٔ دوم از پروژهٔ «واژگان سطح C زبان انگلیسی» است که پس از 23 ماه توسعهٔ محتوایی منتشر می‌شود. در این نسخه، مجموعه‌ای از اصلاحات ساختاری، گسترش واژگان، و تکمیل صفحات اصلی انجام شده است تا تجربهٔ یادگیری دقیق‌تر، منظم‌تر و دوزبانه فراهم شود.
 
-15 شهریور 1404
+این منبع آموزشی با هدف کمک به دانشجویان ایرانی طراحی شده است که در حال آمادگی برای آزمون‌های استاندارد بین‌المللی مانند GRE، IELTS، TOEFL، CAE، TPE و Duolingo English Test هستند، یا قصد دارند دایرهٔ واژگان انگلیسی خود را در سطح رسمی و پیشرفته گسترش دهند. همچنین این فایل برای زبان‌آموزان پیشرفتهٔ فارسی نیز مناسب است و با ارائهٔ دیدگاه‌های دوزبانه، به یادگیری واژگان در هر دو زبان کمک می‌کند.
 
-این نخستین نسخهٔ عمومی از پروژهٔ **واژگان سطح C زبان انگلیسی** است که حاصل ۱۲ ماه تلاش مستمر و پژوهش آموزشی می‌باشد.
-
-این منبع آموزشی با هدف کمک به دانشجویان ایرانی طراحی شده است که در حال آمادگی برای آزمون‌های استاندارد بین‌المللی مانند **GRE**، **IELTS**، **TOEFL**، **CAE**، **TPE** و **Duolingo English Test** هستند، یا قصد دارند دایرهٔ واژگان انگلیسی خود را در سطح رسمی و پیشرفته گسترش دهند. همچنین این فایل برای زبان‌آموزان پیشرفتهٔ فارسی نیز مناسب است و با ارائهٔ دیدگاه‌های دوزبانه، به یادگیری واژگان در هر دو زبان کمک می‌کند.
-
-در حال حاضر، مدخل‌های مربوط به **حرف A** به طور کامل آماده و قابل استفاده هستند. محتوای بیشتری در دست توسعه است و نسخه‌های آینده شامل گسترش واژگان و بهبود ساختار فایل خواهند بود.
-
-📄 لطفاً پیش از استفاده، شرایط مجوز استفاده را مطالعه فرمایید. این پروژه تحت مجوز **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** منتشر شده است. اطلاعات کامل در فایل `LICENSE.txt` موجود است.
-
-از همراهی و حمایت شما از این پروژهٔ آموزشی سپاسگزارم!
-
-</div>
 
 ---
 
-🎉 **Release v0.91 — September 6th, 2025**
+## ✅ انجام‌شده‌ها در نسخهٔ 0.92
 
-This is the first publicly released version of **C-Level English Words**, a comprehensive educational resource developed over 12 months of dedicated work.
+- انتشار نسخه دوم (0.92) فایل اکسل واژگان سطح C  
+- اصلاحات و بهبود فهرست‌ها در تمام صفحات  
+- افزودن ۷۸۹ کلمه جدید به ۲۲۸۲ کلمه قبلی (در صفحه Words)  
+- افزودن به مثال‌ها برای کلمات (در صفحه Words)  
+- تکمیل و افزودن به جداول (در صفحه Words)  
+- تکمیل و بررسی کامل مدخل‌های مربوط به حرف A و B  
+- اضافه کردن صفحه‌ای برای کلمات خودمتضاد (Contronyms)  
+- ادغام دو صفحهٔ ریشه‌ها و وندها (Roots + Affixes)  
+---
 
-This material is designed to support **Iranian students** and **advanced English learners** preparing for standardized exams such as **GRE**, **IELTS**, **TOEFL**, **CAE**, **TPE**, and the **Duolingo English Test**. It also serves as a valuable tool for learners of **Persian/Farsi vocabulary** at advanced levels, offering bilingual insights and cross-linguistic support.
+## 📄 مجوز استفاده
 
-Currently, the entries under **Alphabet A** are complete and ready for use. Additional content is in development, and future updates will expand the dictionary and refine its structure.
+لطفاً پیش از استفاده، شرایط مجوز را مطالعه فرمایید.  
+این پروژه تحت مجوز **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** منتشر شده است.  
+اطلاعات کامل در فایل LICENSE.txt موجود است.
 
-📄 Please review the license terms before using this material. This project is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. Full details are available in the `LICENSE.txt` file.
+از همراهی و حمایت شما سپاسگزارم — این پروژه با بازخوردهای شما رشد می‌کند.
 
 ---
 
-## 🔐 License
+# 🎉 Release v0.92 — June 26th, 2026
 
-This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This is the second publicly released version of C-Level English Words, a comprehensive educational resource developed over 23 months of dedicated work.
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
+This material is designed to support Iranian students and advanced English learners preparing for standardized exams such as GRE, IELTS, TOEFL, CAE, TPE, and the Duolingo English Test. It also serves as a valuable tool for learners of Persian/Farsi vocabulary at advanced levels, offering bilingual insights and cross-linguistic support.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit.
-- **NonCommercial** — You may not use the material for commercial purposes.
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+---
 
-For the full legal text, see the [LICENSE.txt](LICENSE.txt) file in this repository.
+## ✅ Completed in Version 0.92
 
+- Release of Version 0.92 of the C‑Level Vocabulary Excel File  
+- Structural improvements across all pages  
+- Addition of 789 new words to the previous 2282 entries (Words page)  
+- Expanded example sentences for existing entries  
+- Completion and extension of tables (Words page)  
+- Full review and completion of entries under letters A and B  
+- Addition of a dedicated page for Contronyms  
+- Merging of the Roots and Affixes pages  
 
+---
 
+## 📄 License
 
+Please review the license terms before using this material.  
+This project is released under the **Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International License**.  
+Full details are available in the LICENSE.txt file.
+
+Thank you for your continued support — your feedback drives the evolution of this project.
