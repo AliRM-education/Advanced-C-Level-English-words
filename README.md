@@ -42,12 +42,12 @@ This material is designed to support Iranian students and advanced English learn
 
 - Release of Version 0.92 of the C‑Level Vocabulary Excel File  
 - Structural improvements across all pages  
-- Addition of 789 new words to the previous 2282 entries (Words page) equivalent to 35% increase
+- Addition of 789 new words to the previous 2282 entries (Words sheet) equivalent to 35% increase
 - Expanded example sentences for existing entries  
-- Completion and extension of tables (Tables page)  
+- Completion and extension of tables (Tables sheet)  
 - Full review and completion of entries under letters A and B  
-- Addition of a dedicated page for Contronyms  
-- Merging of the Roots and Affixes pages  
+- Addition of a dedicated sheet for Contronyms  
+- Merging of the Roots and Affixes sheets      
 
 ---
 
